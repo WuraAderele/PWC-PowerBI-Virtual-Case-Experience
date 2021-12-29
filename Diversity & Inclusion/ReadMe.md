@@ -29,7 +29,7 @@ Your task is to do the following:
 [Diversity & Inclusion Dataset](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/files/7790582/03.Diversity-Inclusion-Dataset.xlsx/ "Diversity & Inclusion Dataset title")
 
 ## 🚀 Solution/Deliverable
-This is a link to the interactive PowerBI dashboard here. The Call Centre Trends are visualized on page 4 - page 7 of the visual in the link.
+This is a link to the interactive PowerBI dashboard [here](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/blob/main/Diversity%20%26%20Inclusion/PhoneNow%20Trends.pbix/ "here title"). The Call Centre Trends are visualized on page 4 - page 7 of the visual in the link.
 
 See screenshots of the dashboard below:
 <p align = "center">
