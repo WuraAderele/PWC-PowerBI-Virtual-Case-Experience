@@ -17,7 +17,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
   [Call Center Dataset](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/files/7790482/01.Call-Center-Dataset.xlsx/ "Call Center Dataset title")
 
 ## 🚀 Solution/Deliverable
-This is a link to the interactive PowerBI dashboard here:
+This is a link to the interactive PowerBI dashboard [here](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/blob/main/Call%20Centre%20Trends/PhoneNow%20Trends.pbix/ "here title"). The Call Centre Trends are visualized on page 1 of the visual in the link.
   
 See screenshot of the dashboard below:
 <p align = "center">
