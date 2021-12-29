@@ -22,7 +22,7 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 [Churn Dataset](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/files/7790527/02.Churn-Dataset.xlsx/ "Churn Dataset title")
 
 ## 🚀 Solution/Deliverable
-This is a link to the interactive PowerBI dashboard here. The Customer Retention Trends are visualized on page 2 and 3 of the visual in the link.
+This is a link to the interactive PowerBI dashboard [here](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/blob/main/Customer%20Retention%20Trends/PhoneNow%20Trends.pbix/ "here title"). The Customer Retention Trends are visualized on page 2 and 3 of the visual in the link.
 
 See screenshots of the dashboard below:
 <p align = "center">
