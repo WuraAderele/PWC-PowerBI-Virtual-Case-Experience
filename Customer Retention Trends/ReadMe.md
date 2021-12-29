@@ -19,6 +19,7 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 
 ## Resources
 [PhoneNow Inputs](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/files/7790528/PhoneNow.inputs.pdf/ "PhoneNow Inputs title")
+
 [Churn Dataset](https://github.com/WuraAderele/PWC-PowerBI-Virtual-Case-Experience/files/7790527/02.Churn-Dataset.xlsx/ "Churn Dataset title")
 
 ## 🚀 Solution/Deliverable
